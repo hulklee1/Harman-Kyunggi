@@ -1,0 +1,4 @@
+﻿  poinerSample.cpp
+C:\Users\user\source\repos\Work\poinerSample\poinerSample\poinerSample.cpp(24,21): warning C4311: '형식 캐스트': 'char *'에서 'int'(으)로 포인터가 잘립니다.
+C:\Users\user\source\repos\Work\poinerSample\poinerSample\poinerSample.cpp(24,21): warning C4302: '형식 캐스트': 'char *'에서 'int'(으)로 잘립니다.
+  poinerSample.vcxproj -> C:\Users\user\source\repos\Work\poinerSample\x64\Debug\poinerSample.exe
